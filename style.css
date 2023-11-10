@@ -1,1 +1,44 @@
 
+img{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+   
+}
+td{
+    font-size: 19px;
+    font-family: sans-serif;
+}
+p{
+    text-align: center;
+    font-size: 19px;
+font-family: sans-serif;
+}
+.dvht{
+    text-align: center;
+}
+
+
+.xzx{
+   width:1000px ; 
+   opacity: 0.3;
+}
+.xzx:hover{
+    opacity: 1;
+    transition:4s ease-in  ;
+}
+div{
+float: left;
+}
+span{
+    float: right;
+}
+.jij{
+      width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 4px 5px blue ;
+}
+.xyz{
+    text-align: center;
+}
